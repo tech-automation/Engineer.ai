@@ -1,0 +1,12 @@
+beforeHover Red#FF0000
+beforeHover Blue#0000FF
+afterHover Red is -rgb(0, 0, 0)
+bg Color on Red Hover--rgb(255, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box
+-----------------------------------
+After hover blue-rgb(0, 0, 0)
+bg Color on Blue Hover--rgb(0, 0, 255) none repeat scroll 0% 0% / auto padding-box border-box
+-----------------------------------
+beforeHover Green#00FF00
+After hover green- rgb(0, 255, 0)
+bg Color on Green Hover--rgb(0, 255, 0) none repeat scroll 0% 0% / auto padding-box border-box
+Successfull

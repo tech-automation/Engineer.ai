@@ -1,0 +1,33 @@
+[RemoteTestNG] detected TestNG version 6.10.0
+[TestNG] Running:
+  /tmp/testng-eclipse-961752902/testng-customsuite.xml
+
+Execution Started : Opening the browser
+Starting ChromeDriver 2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706) on port 2594
+Only local connections are allowed.
+Sep 24, 2019 6:51:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+beforeHover letter-G color is #00FF00
+After hover letter G color is rgb(0, 0, 0)
+bg Color on B Hover--rgb(0, 255, 0) none repeat scroll 0% 0% / auto padding-box border-box
+Test Execution Completed : Closing the browser
+PASSED: testMethod
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@41e350f1: 10 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@7c2b6087: 5 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@662f5666: 3 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@60f7cc1d: 27 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 1 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@62dae540: 5 ms
+

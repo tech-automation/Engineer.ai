@@ -1,0 +1,9 @@
+Starting ChromeDriver 2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706) on port 23109
+Only local connections are allowed.
+Sep 24, 2019 6:48:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+beforeHover Green#00FF00
+After hover green- rgb(0, 0, 0)
+bg Color on Green Hover--rgb(0, 255, 0) none repeat scroll 0% 0% / auto padding-box border-box
+Successfull
+
